@@ -1,6 +1,6 @@
-## 🍒LeeHaeun🍒
-
-<![slice](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang'&descAlign=70.&descAlignY=44)
+<div align="center">
+ 
+<![slice](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=200&text=Hello,%20I'm%20haeun👋&fontAlign=50&rotate=13&fontAlignY=25&desc=seulzzang'&descAlign=70.&descAlignY=44)
 
 
 Here are some ideas to get you started:
